@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @DivyanshuTripathiCoder
-- 👀 I’m interested in cubing, puzzels, maths and gym!!
-- 🌱 I’m currently learning html / css
-- 💞️ I’m looking to collaborate with mentors who can help me grow 
-- 📫 How to reach me - via divyanshutripathiji@gmail.com
+BTech CSE student (Graduating Nov 2026) with hands-on experience in data analysis, business intelligence, and data visualization. Skilled in transforming raw data into actionable insights through Excel, Power BI, and SQL. Strong communicator with proven ability to present data-driven recommendations. Seeking data analyst internship to apply analytical skills and contribute to business decision-making.
